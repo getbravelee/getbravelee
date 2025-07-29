@@ -12,7 +12,7 @@
 ### 🔎 Contact
 
 <div>
-  <a href="https://velog.io/@getbravelee/posts"><img src="https://img.shields.io/badge/Tech Blog-d14836?style=flat&logo=Velog&logoColor=white&color=#79D9B6"/></a>
+  <a href="https://velog.io/@getbrave/posts"><img src="https://img.shields.io/badge/Tech Blog-d14836?style=flat&logo=Velog&logoColor=white&color=#79D9B6"/></a>
   <a href=""><img src="https://img.shields.io/badge/getbravelee@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
